@@ -4,7 +4,7 @@
 
 ## Introduction
 
-As you have learned in the List Comprehension lesson, list comprehensions allow you to efficiently perform iteration, storage, and even filtering based on conditional statements. List comprehensions are useful for a variety of things, so it is critical that you get sufficient practice and become skilled at identifying when to use them.
+ As you have learned in the List Comprehension lesson, list comprehensions allow you to efficiently perform iteration, storage, and even filtering based on conditional statements. List comprehensions are useful for a variety of things, so it is critical that you get sufficient practice and become skilled at identifying when to use them.
 
 In this lab, you will practice constructing list comprehensions and using them to extract and filter information in a variety of scenarios. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
 
